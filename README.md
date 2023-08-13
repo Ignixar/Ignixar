@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
+Bla bla bla...
+#### Skills:
+Web Development
 
-<!--
-**Ignixar/Ignixar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tools:
+<a href="https://github.com/Ignixar">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40">
+        </a>
+        <a href="https://github.com/Ignixar">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" height="40">
+        </a>
+        <a href="https://github.com/Ignixar">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40">
+        </a>
+        <a href="https://github.com/Ignixar">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="40">
+        </a>
+        <a href="https://github.com/Ignixar">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" height="40">
+        </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ReactJS
+- 😄 Pronouns: He/Him
