@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome!
-<img src="https://media.discordapp.net/attachments/904438940491206667/1143733822924533800/1692757780344.jpg"></img>
+<img src="https://i.hizliresim.com/acpzsv7.jpg"></img>
 
 Bla bla bla...
 #### Skills:
