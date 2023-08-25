@@ -1,4 +1,6 @@
 ### Hi there 👋, Welcome!
+<img src="https://media.discordapp.net/attachments/904438940491206667/1143733822924533800/1692757780344.jpg"></img>
+
 Bla bla bla...
 #### Skills:
 Web Development
@@ -19,6 +21,6 @@ Web Development
         <a href="https://github.com/Ignixar">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" height="40">
         </a>
-
+        
 - 🌱 I’m currently learning ReactJS
 - 😄 Pronouns: He/Him
